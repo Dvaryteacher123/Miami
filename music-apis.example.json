@@ -1,0 +1,5 @@
+[
+  { "name": "siputzx",   "url": "https://api.siputzx.my.id/api/d/ytmp3?url={url}" },
+  { "name": "ryzendesu", "url": "https://api.ryzendesu.vip/api/downloader/ytmp3?url={url}" },
+  { "name": "agatz",     "url": "https://api.agatz.xyz/api/ytmp3?url={url}" }
+]
